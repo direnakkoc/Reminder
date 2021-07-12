@@ -4,6 +4,6 @@
 ### Installation
 1.
 ```sh
-pip install rkcalendar
+pip install tkcalendar
 ```
 
